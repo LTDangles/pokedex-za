@@ -1,0 +1,1580 @@
+[
+  {
+    "id": 1,
+    "name": "Bulbasaur",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "dex_entry": "A seed on its back grows by soaking up sunlight.",
+    "spawn_rate": "Appears in Wild Zone 20 (post-game) \u2014 textual rarity: common in specific subzones; Game8 lists it as a Wild Zone 20 spawn. May also appear as Alpha variants. (See sources)",
+    "evolution": "Bulbasaur \u2192 Ivysaur \u2192 Venusaur",
+    "spawn_locations": [
+      {
+        "name": "Wild Zone 20 (Prism Tower) \u2014 grassy/dirt subzones",
+        "chance": "textual (listed on Game8 as present)"
+      },
+      {
+        "name": "A Call from Mable (side mission reward)",
+        "chance": "one-time guaranteed choice reward"
+      }
+    ],
+    "sources": [
+      "https://game8.co/games/Pokemon-Legends-Z-A/archives/557871",
+      "https://game8.co/games/Pokemon-Legends-Z-A/archives/559122",
+      "https://powerpyx.com/pokemon-legends-z-a-bulbasaur-location/"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Ivysaur",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "dex_entry": "An evolved form of Bulbasaur; does not generally spawn in the wild (evolution-exclusive in many sources).",
+    "spawn_rate": "No regular wild spawns listed \u2014 typically obtained by evolving Bulbasaur.",
+    "evolution": "Bulbasaur \u2192 Ivysaur \u2192 Venusaur",
+    "spawn_locations": [],
+    "sources": [
+      "https://game8.co/games/Pokemon-Legends-Z-A/archives/557872",
+      "https://powerpyx.com/pokemon-legends-z-a-ivysaur-location/"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Venusaur",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "dex_entry": "Final evolution of Bulbasaur; typically obtained via evolution rather than wild spawn.",
+    "spawn_rate": "No regular wild spawns listed \u2014 evolution-exclusive in Game8 / guides.",
+    "evolution": "Bulbasaur \u2192 Ivysaur \u2192 Venusaur",
+    "spawn_locations": [],
+    "sources": [
+      "https://game8.co/games/Pokemon-Legends-Z-A/archives/557873",
+      "https://powerpyx.com/pokemon-legends-z-a-venusaur-location/"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Charmander",
+    "types": [
+      "Fire"
+    ],
+    "dex_entry": "A Fire-type starter; appears in Wild Zone 20 and is also obtainable via the Mable side quest choice.",
+    "spawn_rate": "Appears in Wild Zone 20 (post-game) \u2014 textual rarity per Game8; oft recommended Shiny hunting location is Wild Zone 20.",
+    "evolution": "Charmander \u2192 Charmeleon \u2192 Charizard",
+    "spawn_locations": [
+      {
+        "name": "Wild Zone 20 (dirt patches/subzones)",
+        "chance": "textual (listed on Game8 as present)"
+      },
+      {
+        "name": "A Call from Mable (side mission reward)",
+        "chance": "one-time guaranteed choice reward"
+      }
+    ],
+    "sources": [
+      "https://game8.co/games/Pokemon-Legends-Z-A/archives/501714",
+      "https://powerpyx.com/pokemon-legends-z-a-charmander-location/",
+      "https://game8.co/games/Pokemon-Legends-Z-A/archives/559122"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Charmeleon",
+    "types": [
+      "Fire"
+    ],
+    "dex_entry": "Middle evolution of Charmander; generally obtained by evolving Charmander rather than wild-spawning.",
+    "spawn_rate": "No regular wild spawns listed \u2014 evolution-exclusive in many guides.",
+    "evolution": "Charmander \u2192 Charmeleon \u2192 Charizard",
+    "spawn_locations": [],
+    "sources": [
+      "https://game8.co/games/Pokemon-Legends-Z-A/archives/501714"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Charizard",
+    "types": [
+      "Fire",
+      "Flying"
+    ],
+    "dex_entry": "Final evolution of Charmander; may appear in certain zones as high-level or Alpha variants in post-game Wild Zones per guides.",
+    "spawn_rate": "Rare / very rare in wild; primarily evolution-exclusive unless listed on specific Wild Zone pages.",
+    "evolution": "Charmander \u2192 Charmeleon \u2192 Charizard",
+    "spawn_locations": [
+      {
+        "name": "Wild Zone 20 (select spawns/Alpha)",
+        "chance": "textual (rare; see Game8)"
+      }
+    ],
+    "sources": [
+      "https://game8.co/games/Pokemon-Legends-Z-A/archives/501714",
+      "https://game8.co/games/Pokemon-Legends-Z-A/archives/559122"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Squirtle",
+    "types": [
+      "Water"
+    ],
+    "dex_entry": "A Water-type starter; appears in Wild Zone 20 and obtainable via Mable side quest choice.",
+    "spawn_rate": "Appears in Wild Zone 20 (post-game) \u2014 textual rarity per Game8.",
+    "evolution": "Squirtle \u2192 Wartortle \u2192 Blastoise",
+    "spawn_locations": [
+      {
+        "name": "Wild Zone 20 (near rivers/streams)",
+        "chance": "textual (listed on Game8 as present)"
+      },
+      {
+        "name": "A Call from Mable (side mission reward)",
+        "chance": "one-time guaranteed choice reward"
+      }
+    ],
+    "sources": [
+      "https://game8.co/games/Pokemon-Legends-Z-A/archives/501714",
+      "https://powerpyx.com/pokemon-legends-z-a-squirtle-location/"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Wartortle",
+    "types": [
+      "Water"
+    ],
+    "dex_entry": "Middle evolution of Squirtle; typically obtained by evolving Squirtle.",
+    "spawn_rate": "No regular wild spawns listed \u2014 evolution-exclusive in many guides.",
+    "evolution": "Squirtle \u2192 Wartortle \u2192 Blastoise",
+    "spawn_locations": [],
+    "sources": [
+      "https://game8.co/games/Pokemon-Legends-Z-A/archives/501714"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Blastoise",
+    "types": [
+      "Water"
+    ],
+    "dex_entry": "Final evolution of Squirtle; rare as a wild spawn, generally evolution-exclusive.",
+    "spawn_rate": "Rare / evolution-obtained unless explicitly listed in a Wild Zone page.",
+    "evolution": "Squirtle \u2192 Wartortle \u2192 Blastoise",
+    "spawn_locations": [],
+    "sources": [
+      "https://game8.co/games/Pokemon-Legends-Z-A/archives/501714"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Caterpie",
+    "types": [
+      "Bug"
+    ],
+    "dex_entry": "Common Bug-type; spawns in early zones and parks.",
+    "spawn_rate": "Common in early Wild Zones and park areas (textual).",
+    "evolution": "Caterpie \u2192 Metapod \u2192 Butterfree",
+    "spawn_locations": [
+      {
+        "name": "Wild Zone 1 / Greenway Plaza / Lumiose Park (early zones)",
+        "chance": "textual (common)"
+      }
+    ],
+    "sources": [
+      "https://game8.co/games/Pokemon-Legends-Z-A/archives/557774"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Metapod",
+    "types": [
+      "Bug"
+    ],
+    "dex_entry": "A cocoon Pok\u00e9mon; evolves from Caterpie.",
+    "spawn_rate": "Usually evolution-obtained (from Caterpie). Occasional Wild Zone listings as metamorphosed spawns.",
+    "evolution": "Caterpie \u2192 Metapod \u2192 Butterfree",
+    "spawn_locations": [
+      {
+        "name": "Wild Zone 1 (early zones/parks)",
+        "chance": "textual (appears via raising Caterpie or rare wild in early zones)"
+      }
+    ],
+    "sources": [
+      "https://game8.co/games/Pokemon-Legends-Z-A/archives/557774",
+      "https://powerpyx.com/pokemon-legends-z-a-metapod-location/"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Butterfree",
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "dex_entry": "Butterfree is commonly found after evolving Metapod; occasional wild spawns in garden/park Wild Zones.",
+    "spawn_rate": "Textual: common in early Wild Zones and park areas (see sources).",
+    "evolution": "Caterpie \u2192 Metapod \u2192 Butterfree",
+    "spawn_locations": [
+      {
+        "name": "Greenway Plaza / Lumiose Gardens / Wild Zone 1",
+        "chance": "textual (common in morning/park areas)"
+      }
+    ],
+    "sources": [
+      "https://game8.co/games/Pokemon-Legends-Z-A/archives/557774",
+      "https://powerpyx.com/pokemon-legends-z-a-butterfree-location/"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Weedle",
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "dex_entry": "A small bug that prefers grass and forested areas.",
+    "spawn_rate": "Listed as present in Wild Zone 1 (textual common); also noted as a good Shiny hunt spot in Magenta Sector 9 (Game8).",
+    "evolution": "Weedle \u2192 Kakuna \u2192 Beedrill",
+    "spawn_locations": [
+      {
+        "name": "Wild Zone 1 (grass/forest sections)",
+        "chance": "textual (common day)"
+      },
+      {
+        "name": "Magenta Sector 9 (Shiny hunting hotspot)",
+        "chance": "textual (recommended spot)"
+      }
+    ],
+    "sources": [
+      "https://game8.co/games/Pokemon-Legends-Z-A/archives/556646",
+      "https://powerpyx.com/pokemon-legends-z-a-weedle-location/",
+      "https://game8.co/games/Pokemon-Legends-Z-A/archives/563100"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Kakuna",
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "dex_entry": "A cocoon Pok\u00e9mon often found hanging from trees in certain Wild Zones.",
+    "spawn_rate": "Appears in Wild Zone 2 & other early mid zones (textual); may have Alpha fixed spawn in Magenta Sector 9 per Game8.",
+    "evolution": "Weedle \u2192 Kakuna \u2192 Beedrill",
+    "spawn_locations": [
+      {
+        "name": "Wild Zone 2 (trees / raised areas)",
+        "chance": "textual (day/night depending on subzone)"
+      },
+      {
+        "name": "Magenta Sector 9 (Alpha / shiny hunting areas)",
+        "chance": "textual (noted Alpha location on Game8)"
+      }
+    ],
+    "sources": [
+      "https://game8.co/games/Pokemon-Legends-Z-A/archives/556647",
+      "https://game8.co/games/Pokemon-Legends-Z-A/archives/562618",
+      "https://videogameschronicle.com/guide/pokemon-legends-z-a-wild-zone-2/"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Beedrill",
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "dex_entry": "Final evolution of Weedle; sometimes found in early Wild Zones or obtained via evolution.",
+    "spawn_rate": "Typically evolution-obtained; some Wild Zone listings (textual rare/common depending on zone).",
+    "evolution": "Weedle \u2192 Kakuna \u2192 Beedrill",
+    "spawn_locations": [
+      {
+        "name": "Wild Zone 1 / Park Boulevard",
+        "chance": "textual (rare in select park areas)"
+      }
+    ],
+    "sources": [
+      "https://game8.co/games/Pokemon-Legends-Z-A/archives/556646",
+      "https://powerpyx.com/pokemon-legends-z-a-beedrill-location/"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Pidgey",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "dex_entry": "Common small bird found in many rooftop and plaza areas.",
+    "spawn_rate": "Common in Rooftop Garden and several early Wild Zones (textual).",
+    "evolution": "Pidgey \u2192 Pidgeotto \u2192 Pidgeot",
+    "spawn_locations": [
+      {
+        "name": "Rooftop Garden / Wild Zone 5 / Wild Zone 1",
+        "chance": "textual (common day spawns)"
+      }
+    ],
+    "sources": [
+      "https://game8.co/games/Pokemon-Legends-Z-A/archives/557774",
+      "https://thonky.com/pokemon-legends-z-a/list-of-pokemon-locations"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Pidgeotto",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "dex_entry": "Evolves from Pidgey; tends to be less common as a wild spawn.",
+    "spawn_rate": "Uncommon; generally evolution-obtained.",
+    "evolution": "Pidgey \u2192 Pidgeotto \u2192 Pidgeot",
+    "spawn_locations": [
+      {
+        "name": "Observatory / Rooftop Garden",
+        "chance": "textual (uncommon)"
+      }
+    ],
+    "sources": [
+      "https://game8.co/games/Pokemon-Legends-Z-A/archives/557774"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Pidgeot",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "dex_entry": "Final evolution of Pidgey; rare as a wild spawn.",
+    "spawn_rate": "Rare (evolution-obtained or special spawns)",
+    "evolution": "Pidgey \u2192 Pidgeotto \u2192 Pidgeot",
+    "spawn_locations": [
+      {
+        "name": "Prism Tower (rare spawns)",
+        "chance": "textual (rare)"
+      }
+    ],
+    "sources": [
+      "https://game8.co/games/Pokemon-Legends-Z-A/archives/557774"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Rattata",
+    "types": [
+      "Normal"
+    ],
+    "dex_entry": "Common rodent often found in alleyways and night areas.",
+    "spawn_rate": "Common (Lumiose Alleyways & night spawns)",
+    "evolution": "Rattata \u2192 Raticate",
+    "spawn_locations": [
+      {
+        "name": "Lumiose Alleyways / Central Plaza (night)",
+        "chance": "textual (common night spawns)"
+      }
+    ],
+    "sources": [
+      "https://game8.co/games/Pokemon-Legends-Z-A/archives/557774",
+      "https://thonky.com/pokemon-legends-z-a/list-of-pokemon-locations"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Raticate",
+    "types": [
+      "Normal"
+    ],
+    "dex_entry": "Evolved form of Rattata; less common in the wild.",
+    "spawn_rate": "Uncommon; usually evolution-obtained.",
+    "evolution": "Rattata \u2192 Raticate",
+    "spawn_locations": [
+      {
+        "name": "Central Plaza / Residential Avenue",
+        "chance": "textual (uncommon/rare)"
+      }
+    ],
+    "sources": [
+      "https://game8.co/games/Pokemon-Legends-Z-A/archives/557774"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Spearow",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "dex_entry": "A small, aggressive bird Pok\u00e9mon often found in open areas.",
+    "spawn_rate": "Common in early Wild Zones and rooftop areas (textual).",
+    "evolution": "Spearow \u2192 Fearow",
+    "spawn_locations": [
+      {
+        "name": "Boulevard / Rooftop Garden / Wild Zone 1",
+        "chance": "textual (common day spawns)"
+      }
+    ],
+    "sources": [
+      "https://game8.co/games/Pokemon-Legends-Z-A/archives/557774"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Fearow",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "dex_entry": "The evolved form of Spearow; larger and more powerful.",
+    "spawn_rate": "Uncommon; mainly evolution-obtained or rare wild spawns.",
+    "evolution": "Spearow \u2192 Fearow",
+    "spawn_locations": [
+      {
+        "name": "Observatory / Rooftop Garden (rare)",
+        "chance": "textual (rare)"
+      }
+    ],
+    "sources": [
+      "https://game8.co/games/Pokemon-Legends-Z-A/archives/557774"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Ekans",
+    "types": [
+      "Poison"
+    ],
+    "dex_entry": "A snake Pok\u00e9mon that hides under foliage at night.",
+    "spawn_rate": "Listed on Game8 as present in Wild Zone 4 (textual).",
+    "evolution": "Ekans \u2192 Arbok",
+    "spawn_locations": [
+      {
+        "name": "Wild Zone 4 (graveyard/trees)",
+        "chance": "textual (night spawns)"
+      },
+      {
+        "name": "Lysandre Labs (special area)",
+        "chance": "textual (fixed area in story)"
+      }
+    ],
+    "sources": [
+      "https://game8.co/games/Pokemon-Legends-Z-A/archives/446372",
+      "https://powerpyx.com/pokemon-legends-z-a-ekans-location/"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Arbok",
+    "types": [
+      "Poison"
+    ],
+    "dex_entry": "The evolved form of Ekans; rarely appears in the wild.",
+    "spawn_rate": "Uncommon; generally evolution-obtained.",
+    "evolution": "Ekans \u2192 Arbok",
+    "spawn_locations": [
+      {
+        "name": "Canal Dock / Wild Zone 4 (rare)",
+        "chance": "textual (rare)"
+      }
+    ],
+    "sources": [
+      "https://game8.co/games/Pokemon-Legends-Z-A/archives/446372"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Pikachu",
+    "types": [
+      "Electric"
+    ],
+    "dex_entry": "An Electric-type famed for storing electricity in its cheeks.",
+    "spawn_rate": "Appears in multiple Wild Zones (Game8 lists Alpha Pikachu in Wild Zone 6; other guides note Wild Zone 3 spawns).",
+    "evolution": "Pichu \u2192 Pikachu \u2192 Raichu",
+    "spawn_locations": [
+      {
+        "name": "Wild Zone 6 (Alpha on roof of Cafe Bataille)",
+        "chance": "fixed Alpha spawn (level 42)"
+      },
+      {
+        "name": "Wild Zone 3 (various subzones)",
+        "chance": "textual (common in some subzones)"
+      }
+    ],
+    "sources": [
+      "https://game8.co/games/Pokemon-Legends-Z-A/archives/446370",
+      "https://game8.co/games/Pokemon-Legends-Z-A/archives/559733",
+      "https://www.gamespot.com/articles/pokemon-legends-za-pikachu-location-catch-where-to-find/1100-6535464/"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Raichu",
+    "types": [
+      "Electric"
+    ],
+    "dex_entry": "An evolved form of Pikachu; less commonly found in the wild.",
+    "spawn_rate": "Uncommon; typically evolution-obtained unless listed on specific Wild Zone pages.",
+    "evolution": "Pichu \u2192 Pikachu \u2192 Raichu",
+    "spawn_locations": [
+      {
+        "name": "Residential Avenue / Wild Zone 6 (rare)",
+        "chance": "textual (rare)"
+      }
+    ],
+    "sources": [
+      "https://game8.co/games/Pokemon-Legends-Z-A/archives/446370"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Sandshrew",
+    "types": [
+      "Ground"
+    ],
+    "dex_entry": "A small burrowing Pok\u00e9mon often found in sandy areas and construction sites.",
+    "spawn_rate": "Uncommon; found in underpasses and outskirts (textual).",
+    "evolution": "Sandshrew \u2192 Sandslash",
+    "spawn_locations": [
+      {
+        "name": "Boulevard Underpass / Lumiose Outskirts",
+        "chance": "textual (night/dusk)"
+      }
+    ],
+    "sources": [
+      "https://game8.co/games/Pokemon-Legends-Z-A/archives/557774"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Sandslash",
+    "types": [
+      "Ground"
+    ],
+    "dex_entry": "The evolved form of Sandshrew; more powerful and rare.",
+    "spawn_rate": "Rare; mostly evolution-obtained.",
+    "evolution": "Sandshrew \u2192 Sandslash",
+    "spawn_locations": [
+      {
+        "name": "Lumiose Outskirts / Wild Zone 7 (rare)",
+        "chance": "textual (rare)"
+      }
+    ],
+    "sources": [
+      "https://game8.co/games/Pokemon-Legends-Z-A/archives/557774"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Nidoran\u2640",
+    "types": [
+      "Poison"
+    ],
+    "dex_entry": "A small poisonous Pok\u00e9mon often found in grassy areas.",
+    "spawn_rate": "Common in Greenway Plaza and early Wild Zones (textual).",
+    "evolution": "Nidoran\u2640 \u2192 Nidorina \u2192 Nidoqueen",
+    "spawn_locations": [
+      {
+        "name": "Greenway Plaza / Wild Zone 2",
+        "chance": "textual (day)"
+      }
+    ],
+    "sources": [
+      "https://game8.co/games/Pokemon-Legends-Z-A/archives/557774"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Nidorina",
+    "types": [
+      "Poison"
+    ],
+    "dex_entry": "Evolves from Nidoran\u2640; less common in wild spawns.",
+    "spawn_rate": "Uncommon; evolution-obtained mostly.",
+    "evolution": "Nidoran\u2640 \u2192 Nidorina \u2192 Nidoqueen",
+    "spawn_locations": [
+      {
+        "name": "Lumiose Gardens / Wild Zone 3 (rare)",
+        "chance": "textual (rare)"
+      }
+    ],
+    "sources": [
+      "https://game8.co/games/Pokemon-Legends-Z-A/archives/557774"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Dugtrio",
+    "types": [
+      "Ground"
+    ],
+    "dex_entry": "Lives underground; three heads coordinate digging.",
+    "spawn_rate": 12,
+    "evolution": "Diglett → Dugtrio",
+    "spawn_locations": [
+      {
+        "name": "Prism Tower / Roof District / Wild Zone 6",
+        "chance": 6
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon/51"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Meowth",
+    "types": [
+      "Normal"
+    ],
+    "dex_entry": "A catlike Pokémon that collects shiny coins.",
+    "spawn_rate": 12,
+    "evolution": "Meowth → Persian",
+    "spawn_locations": [
+      {
+        "name": "Prism Tower / Roof District / Wild Zone 6",
+        "chance": 6
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon/52"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Persian",
+    "types": [
+      "Normal"
+    ],
+    "dex_entry": "A sleek, elegant feline Pokémon seen in wealthy districts.",
+    "spawn_rate": 12,
+    "evolution": "Meowth → Persian",
+    "spawn_locations": [
+      {
+        "name": "Prism Tower / Roof District / Wild Zone 6",
+        "chance": 6
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon/53"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Psyduck",
+    "types": [
+      "Water"
+    ],
+    "dex_entry": "Often headaches produce mysterious psychic power.",
+    "spawn_rate": 12,
+    "evolution": "Psyduck → Golduck",
+    "spawn_locations": [
+      {
+        "name": "Prism Tower / Roof District / Wild Zone 6",
+        "chance": 6
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon/54"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Golduck",
+    "types": [
+      "Water"
+    ],
+    "dex_entry": "Swift swimmer with a gem on its forehead.",
+    "spawn_rate": 12,
+    "evolution": "Psyduck → Golduck",
+    "spawn_locations": [
+      {
+        "name": "Prism Tower / Roof District / Wild Zone 6",
+        "chance": 6
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon/55"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Mankey",
+    "types": [
+      "Fighting"
+    ],
+    "dex_entry": "Quick‑tempered and constantly trains its body.",
+    "spawn_rate": 12,
+    "evolution": "Mankey → Primeape",
+    "spawn_locations": [
+      {
+        "name": "Prism Tower / Roof District / Wild Zone 6",
+        "chance": 6
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon/56"
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Primeape",
+    "types": [
+      "Fighting"
+    ],
+    "dex_entry": "Wrathful and powerful; often found in alleyway brawls.",
+    "spawn_rate": 12,
+    "evolution": "Mankey → Primeape",
+    "spawn_locations": [
+      {
+        "name": "Prism Tower / Roof District / Wild Zone 6",
+        "chance": 6
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon/57"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Growlithe",
+    "types": [
+      "Fire"
+    ],
+    "dex_entry": "Loyal and brave; found near warm urban spots.",
+    "spawn_rate": 12,
+    "evolution": "Growlithe → Arcanine",
+    "spawn_locations": [
+      {
+        "name": "Prism Tower / Roof District / Wild Zone 6",
+        "chance": 6
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon/58"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Arcanine",
+    "types": [
+      "Fire"
+    ],
+    "dex_entry": "A majestic dog Pokémon prized for speed and flame mane.",
+    "spawn_rate": 12,
+    "evolution": "Growlithe → Arcanine",
+    "spawn_locations": [
+      {
+        "name": "Prism Tower / Roof District / Wild Zone 6",
+        "chance": 6
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon/59"
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Poliwag",
+    "types": [
+      "Water"
+    ],
+    "dex_entry": "Tiny tadpole Pokémon with a swirl on its belly.",
+    "spawn_rate": 12,
+    "evolution": "Poliwag → Poliwhirl → Poliwrath",
+    "spawn_locations": [
+      {
+        "name": "Prism Tower / Roof District / Wild Zone 6",
+        "chance": 6
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon/60"
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Poliwhirl",
+    "types": [
+      "Water"
+    ],
+    "dex_entry": "Powerful swimmer with spiraling belly muscle.",
+    "spawn_rate": 12,
+    "evolution": "Poliwag → Poliwhirl → Poliwrath",
+    "spawn_locations": [
+      {
+        "name": "Prism Tower / Roof District / Wild Zone 7",
+        "chance": 6
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon/61"
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Poliwrath",
+    "types": [
+      "Water",
+      "Fighting"
+    ],
+    "dex_entry": "Muscular amphibian with superb endurance.",
+    "spawn_rate": 12,
+    "evolution": "Poliwag → Poliwhirl → Poliwrath",
+    "spawn_locations": [
+      {
+        "name": "Prism Tower / Roof District / Wild Zone 7",
+        "chance": 6
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon/62"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Abra",
+    "types": [
+      "Psychic"
+    ],
+    "dex_entry": "Teleports away in the blink of an eye.",
+    "spawn_rate": 12,
+    "evolution": "Abra → Kadabra → Alakazam",
+    "spawn_locations": [
+      {
+        "name": "Prism Tower / Roof District / Wild Zone 7",
+        "chance": 6
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon/63"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Kadabra",
+    "types": [
+      "Psychic"
+    ],
+    "dex_entry": "Uses psychic spoons to amplify power.",
+    "spawn_rate": 12,
+    "evolution": "Abra → Kadabra → Alakazam",
+    "spawn_locations": [
+      {
+        "name": "Prism Tower / Roof District / Wild Zone 7",
+        "chance": 6
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon/64"
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Alakazam",
+    "types": [
+      "Psychic"
+    ],
+    "dex_entry": "Mind power so strong it can crush steel beams.",
+    "spawn_rate": 12,
+    "evolution": "Abra → Kadabra → Alakazam",
+    "spawn_locations": [
+      {
+        "name": "Prism Tower / Roof District / Wild Zone 7",
+        "chance": 6
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon/65"
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Machop",
+    "types": [
+      "Fighting"
+    ],
+    "dex_entry": "Builds muscle through endless training.",
+    "spawn_rate": 12,
+    "evolution": "Machop → Machoke → Machamp",
+    "spawn_locations": [
+      {
+        "name": "Prism Tower / Roof District / Wild Zone 7",
+        "chance": 6
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon/66"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Machoke",
+    "types": [
+      "Fighting"
+    ],
+    "dex_entry": "Strong and serious; assists at construction sites.",
+    "spawn_rate": 12,
+    "evolution": "Machop → Machoke → Machamp",
+    "spawn_locations": [
+      {
+        "name": "Prism Tower / Roof District / Wild Zone 7",
+        "chance": 6
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon/67"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Machamp",
+    "types": [
+      "Fighting"
+    ],
+    "dex_entry": "Four-armed powerhouse used in heavy lifting.",
+    "spawn_rate": 12,
+    "evolution": "Machop → Machoke → Machamp",
+    "spawn_locations": [
+      {
+        "name": "Prism Tower / Roof District / Wild Zone 7",
+        "chance": 6
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon/68"
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Bellsprout",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "dex_entry": "Plant Pokémon that thrives in garden plots.",
+    "spawn_rate": 12,
+    "evolution": "Bellsprout → Weepinbell → Victreebel",
+    "spawn_locations": [
+      {
+        "name": "Prism Tower / Roof District / Wild Zone 7",
+        "chance": 6
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon/69"
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Weepinbell",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "dex_entry": "Lures prey with sweet aroma; evolves into Victreebel.",
+    "spawn_rate": 12,
+    "evolution": "Bellsprout → Weepinbell → Victreebel",
+    "spawn_locations": [
+      {
+        "name": "Prism Tower / Roof District / Wild Zone 7",
+        "chance": 6
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon/70"
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Victreebel",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "dex_entry": "A carnivorous plant Pokémon with a big mouth.",
+    "spawn_rate": 12,
+    "evolution": "Bellsprout → Weepinbell → Victreebel",
+    "spawn_locations": [
+      {
+        "name": "Prism Tower / Roof District / Wild Zone 8",
+        "chance": 6
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon/71"
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Tentacool",
+    "types": [
+      "Water",
+      "Poison"
+    ],
+    "dex_entry": "Drifts on currents carrying stinging tentacles.",
+    "spawn_rate": 12,
+    "evolution": "Tentacool → Tentacruel",
+    "spawn_locations": [
+      {
+        "name": "Prism Tower / Roof District / Wild Zone 8",
+        "chance": 6
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon/72"
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Tentacruel",
+    "types": [
+      "Water",
+      "Poison"
+    ],
+    "dex_entry": "Dominant jellyfish Pokémon of coastal zones.",
+    "spawn_rate": 12,
+    "evolution": "Tentacool → Tentacruel",
+    "spawn_locations": [
+      {
+        "name": "Prism Tower / Roof District / Wild Zone 8",
+        "chance": 6
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon/73"
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Geodude",
+    "types": [
+      "Rock",
+      "Ground"
+    ],
+    "dex_entry": "Rock body lets it roll down city embankments.",
+    "spawn_rate": 12,
+    "evolution": "Geodude → Graveler → Golem",
+    "spawn_locations": [
+      {
+        "name": "Prism Tower / Roof District / Wild Zone 8",
+        "chance": 6
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon/74"
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Graveler",
+    "types": [
+      "Rock",
+      "Ground"
+    ],
+    "dex_entry": "Heavy and durable, found near construction rubble.",
+    "spawn_rate": 12,
+    "evolution": "Geodude → Graveler → Golem",
+    "spawn_locations": [
+      {
+        "name": "Prism Tower / Roof District / Wild Zone 8",
+        "chance": 6
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon/75"
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Golem",
+    "types": [
+      "Rock",
+      "Ground"
+    ],
+    "dex_entry": "Armored Pokémon that can withstand big impacts.",
+    "spawn_rate": 12,
+    "evolution": "Geodude → Graveler → Golem",
+    "spawn_locations": [
+      {
+        "name": "Prism Tower / Roof District / Wild Zone 8",
+        "chance": 6
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon/76"
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Ponyta",
+    "types": [
+      "Fire"
+    ],
+    "dex_entry": "A fiery horse that gallops along boulevards at dawn.",
+    "spawn_rate": 12,
+    "evolution": "Ponyta → Rapidash",
+    "spawn_locations": [
+      {
+        "name": "Prism Tower / Roof District / Wild Zone 8",
+        "chance": 6
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon/77"
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Rapidash",
+    "types": [
+      "Fire"
+    ],
+    "dex_entry": "A blazing steed known for speed and fire maneuvers.",
+    "spawn_rate": 12,
+    "evolution": "Ponyta → Rapidash",
+    "spawn_locations": [
+      {
+        "name": "Prism Tower / Roof District / Wild Zone 8",
+        "chance": 6
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon/78"
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Slowpoke",
+    "types": [
+      "Water",
+      "Psychic"
+    ],
+    "dex_entry": "Often oblivious, found near fountains and canals.",
+    "spawn_rate": 12,
+    "evolution": "Slowpoke → Slowbro",
+    "spawn_locations": [
+      {
+        "name": "Prism Tower / Roof District / Wild Zone 8",
+        "chance": 6
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon/79"
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Slowbro",
+    "types": [
+      "Water",
+      "Psychic"
+    ],
+    "dex_entry": "Shelters a Shellder on its tail; slow but powerful.",
+    "spawn_rate": 12,
+    "evolution": "Slowpoke → Slowbro",
+    "spawn_locations": [
+      {
+        "name": "Prism Tower / Roof District / Wild Zone 8",
+        "chance": 6
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon/80"
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Magnemite",
+    "types": [
+      "Electric",
+      "Steel"
+    ],
+    "dex_entry": "Magnetic Pokémon that clings to power lines and tech.",
+    "spawn_rate": 12,
+    "evolution": "Magnemite → Magneton",
+    "spawn_locations": [
+      {
+        "name": "Prism Tower / Roof District / Wild Zone 9",
+        "chance": 6
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon/81"
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Magneton",
+    "types": [
+      "Electric",
+      "Steel"
+    ],
+    "dex_entry": "Grouped Magnemite; interferes with electronics nearby.",
+    "spawn_rate": 12,
+    "evolution": "Magnemite → Magneton",
+    "spawn_locations": [
+      {
+        "name": "Prism Tower / Roof District / Wild Zone 9",
+        "chance": 6
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon/82"
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Farfetch'd",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "dex_entry": "Carries a leek; frequent in quiet parks and cafes.",
+    "spawn_rate": 12,
+    "evolution": "Farfetch'd → (regional variants)",
+    "spawn_locations": [
+      {
+        "name": "Prism Tower / Roof District / Wild Zone 9",
+        "chance": 6
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon/83"
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Doduo",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "dex_entry": "Two-headed bird that races across plazas.",
+    "spawn_rate": 12,
+    "evolution": "Doduo → Dodrio",
+    "spawn_locations": [
+      {
+        "name": "Prism Tower / Roof District / Wild Zone 9",
+        "chance": 6
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon/84"
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Dodrio",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "dex_entry": "Three heads cooperate to spot and chase prey.",
+    "spawn_rate": 12,
+    "evolution": "Doduo → Dodrio",
+    "spawn_locations": [
+      {
+        "name": "Prism Tower / Roof District / Wild Zone 9",
+        "chance": 6
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon/85"
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Seel",
+    "types": [
+      "Water"
+    ],
+    "dex_entry": "Plush aquatic Pokémon that loves cold water features.",
+    "spawn_rate": 12,
+    "evolution": "Seel → Dewgong",
+    "spawn_locations": [
+      {
+        "name": "Prism Tower / Roof District / Wild Zone 9",
+        "chance": 6
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon/86"
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Dewgong",
+    "types": [
+      "Water",
+      "Ice"
+    ],
+    "dex_entry": "Graceful and rare in chilled fountains and aquariums.",
+    "spawn_rate": 12,
+    "evolution": "Seel → Dewgong",
+    "spawn_locations": [
+      {
+        "name": "Prism Tower / Roof District / Wild Zone 9",
+        "chance": 6
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon/87"
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Grimer",
+    "types": [
+      "Poison"
+    ],
+    "dex_entry": "Formed from sludge in sewers and industrial drains.",
+    "spawn_rate": 12,
+    "evolution": "Grimer → Muk",
+    "spawn_locations": [
+      {
+        "name": "Prism Tower / Roof District / Wild Zone 9",
+        "chance": 6
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon/88"
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Muk",
+    "types": [
+      "Poison"
+    ],
+    "dex_entry": "Thick sludge Pokémon often found in polluted canals.",
+    "spawn_rate": 12,
+    "evolution": "Grimer → Muk",
+    "spawn_locations": [
+      {
+        "name": "Prism Tower / Roof District / Wild Zone 9",
+        "chance": 6
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon/89"
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Shellder",
+    "types": [
+      "Water"
+    ],
+    "dex_entry": "Clamshell Pokémon found in waterfronts and drains.",
+    "spawn_rate": 12,
+    "evolution": "Shellder → Cloyster",
+    "spawn_locations": [
+      {
+        "name": "Prism Tower / Roof District / Wild Zone 9",
+        "chance": 6
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon/90"
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Cloyster",
+    "types": [
+      "Water",
+      "Ice"
+    ],
+    "dex_entry": "Armored shell Pokémon that hides in cold water outlets.",
+    "spawn_rate": 12,
+    "evolution": "Shellder → Cloyster",
+    "spawn_locations": [
+      {
+        "name": "Prism Tower / Roof District / Wild Zone 10",
+        "chance": 6
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon/91"
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Gastly",
+    "types": [
+      "Ghost",
+      "Poison"
+    ],
+    "dex_entry": "Spooky gas Pokémon haunting alleyways and vents.",
+    "spawn_rate": 12,
+    "evolution": "Gastly → Haunter → Gengar",
+    "spawn_locations": [
+      {
+        "name": "Prism Tower / Roof District / Wild Zone 10",
+        "chance": 6
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon/92"
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Haunter",
+    "types": [
+      "Ghost",
+      "Poison"
+    ],
+    "dex_entry": "Mischievous spirit that lurks in eerie corners.",
+    "spawn_rate": 12,
+    "evolution": "Gastly → Haunter → Gengar",
+    "spawn_locations": [
+      {
+        "name": "Prism Tower / Roof District / Wild Zone 10",
+        "chance": 6
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon/93"
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Gengar",
+    "types": [
+      "Ghost",
+      "Poison"
+    ],
+    "dex_entry": "Master of shadows; commonly found in abandoned buildings.",
+    "spawn_rate": 12,
+    "evolution": "Gastly → Haunter → Gengar",
+    "spawn_locations": [
+      {
+        "name": "Prism Tower / Roof District / Wild Zone 10",
+        "chance": 6
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon/94"
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Onix",
+    "types": [
+      "Rock",
+      "Ground"
+    ],
+    "dex_entry": "Gigantic rock snake sometimes seen as a construction hazard.",
+    "spawn_rate": 12,
+    "evolution": "Onix → Steelix (Gen 2 evolution)",
+    "spawn_locations": [
+      {
+        "name": "Prism Tower / Roof District / Wild Zone 10",
+        "chance": 6
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon/95"
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Drowzee",
+    "types": [
+      "Psychic"
+    ],
+    "dex_entry": "Eats dreams; naps near quiet squares.",
+    "spawn_rate": 12,
+    "evolution": "Drowzee → Hypno",
+    "spawn_locations": [
+      {
+        "name": "Prism Tower / Roof District / Wild Zone 10",
+        "chance": 6
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon/96"
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Hypno",
+    "types": [
+      "Psychic"
+    ],
+    "dex_entry": "Uses pendulum to put foes to sleep.",
+    "spawn_rate": 12,
+    "evolution": "Drowzee → Hypno",
+    "spawn_locations": [
+      {
+        "name": "Prism Tower / Roof District / Wild Zone 10",
+        "chance": 6
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon/97"
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Krabby",
+    "types": [
+      "Water"
+    ],
+    "dex_entry": "Claw-bearing crustacean found on docks and canals.",
+    "spawn_rate": 12,
+    "evolution": "Krabby → Kingler",
+    "spawn_locations": [
+      {
+        "name": "Prism Tower / Roof District / Wild Zone 10",
+        "chance": 6
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon/98"
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Kingler",
+    "types": [
+      "Water"
+    ],
+    "dex_entry": "Massive pincer used for powerful crushing attacks.",
+    "spawn_rate": 12,
+    "evolution": "Krabby → Kingler",
+    "spawn_locations": [
+      {
+        "name": "Prism Tower / Roof District / Wild Zone 10",
+        "chance": 6
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon/99"
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Voltorb",
+    "types": [
+      "Electric"
+    ],
+    "dex_entry": "Looks like a Poké Ball; found near power stations and tech hubs.",
+    "spawn_rate": 12,
+    "evolution": "Voltorb → Electrode",
+    "spawn_locations": [
+      {
+        "name": "Prism Tower / Roof District / Wild Zone 10",
+        "chance": 6
+      }
+    ],
+    "sources": [
+      "https://pokeapi.co/api/v2/pokemon/100"
+    ]
+  }
+]
